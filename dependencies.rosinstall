@@ -1,0 +1,3 @@
+- git:
+    local-name: lio_sam
+    uri: https://github.com/TixiaoShan/LIO-SAM.git
